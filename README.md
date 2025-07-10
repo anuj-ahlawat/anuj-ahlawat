@@ -3,7 +3,7 @@
 ### 🚀 Aspiring Software Engineer | 💡 Passionate about DSA, Cybersecurity & Big Data
 
 - 🎓 Pursuing B.Tech in CSE (Cybersecurity) at Bennett University (2023–2027)
-- - 👯 I’m looking to collaborate on **open-source projects and impactful tech**
+- 👯 I’m looking to collaborate on **open-source projects and impactful tech**
 - 📚 Currently, I’m learning everything 😅.
 - 📫 Reach me at: anujahlawat2410@gmail.com
 
