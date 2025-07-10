@@ -1,15 +1,45 @@
-# 👋 Hi, I'm Anuj Ahlawat
+<p align="center">
+  <img src="https://github.com/anuj-ahlawat/anuj-ahlawat/blob/main/anuj_logo.png" alt="logo" width="150" />
+</p>
 
-### 🚀 Aspiring Software Engineer | 💡 Passionate about DSA, Cybersecurity & Big Data
+<h1 align="center">Hi 👋, I'm Anuj Ahlawat</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | 💡 Passionate about DSA, Cybersecurity & Big Data</h3>
 
-- 🎓 Pursuing B.Tech in CSE (Cybersecurity) at Bennett University (2023–2027)
+<img align="right" alt="coding" width="400"
+    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+  - 🎓 Pursuing B.Tech in CSE (Cybersecurity) at Bennett University (2023–2027)
 - 👯 I’m looking to collaborate on **open-source projects and impactful tech**
 - 📚 Currently, I’m learning everything 😅.
 - 📫 Reach me at: anujahlawat2410@gmail.com
 
+
 ---
 
-### 🛠️ Languages & Tools
+
+
+
+<h2>🌐 Connect With Me:</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/anujahlawat2410/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anuj-ahlawat" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/anuj_ahlawat_01/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+ 
+
+
+
+---
+
+## 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
@@ -28,33 +58,29 @@
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
----
-
-### 📊 GitHub Stats
-
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj-ahlawat&show_icons=true&theme=tokyonight)
 
 ---
 
-### 📌 Most Used Technologies
+## 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-ahlawat&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuj-ahlawat&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img title="🔥 GitHub Streak Stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-ahlawat&theme=tokyonight&hide_border=true"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-ahlawat&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anuj-ahlawat&theme=tokyonight&border_radius=5.5)](https://git.io/streak-stats)
-
-<!-- Or you can embed the screenshot image if you prefer it visually -->
-<!-- <img src="assets/streak-stats.png" width="100%" alt="Anuj's GitHub Streak Stats" /> -->
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anujahlawat2410/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/anuj-ahlawat)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anuj_ahlawat_01/)  
