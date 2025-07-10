@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anuj Ahlawat</h1>
-<h3 align="center">🚀  | 💡 Passionate about DSA, Cybersecurity </h3>
+<h3 align="center">🚀 Software Engineer | 💻 Web Developer | 🔐 Cybersecurity Enthusiast </h3>
 
 
 
@@ -10,28 +10,6 @@
 - 👯 I’m looking to collaborate on **open-source projects and impactful tech**
 - 📚 Currently, I’m learning everything 😅.
 - 📫 Reach me at: anujahlawat2410@gmail.com
-
-
----
-
-
-
-
-<h2>🌐 Connect With Me:</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/anujahlawat2410/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/anuj-ahlawat" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/anuj_ahlawat_01/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
- 
-
 
 
 ---
@@ -80,4 +58,27 @@
     </td>
   </tr>
 </table>
+
+
+---
+
+
+<h2>🌐 Connect With Me:</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/anujahlawat2410/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anuj-ahlawat" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/anuj_ahlawat_01/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+ 
+
+
+
+---
 
