@@ -7,7 +7,6 @@
 - 📚 Currently, I’m learning everything 😅.
 - 📫 Reach me at: anujahlawat2410@gmail.com
 
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -33,14 +32,24 @@
 
 ---
 
-
-### 📄 [Resume (PDF)](https://github.com/anuj-ahlawat/anuj-ahlawat/blob/main/anuj_resume.pdf)
-
----
-
 ### 📊 GitHub Stats
 
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj-ahlawat&show_icons=true&theme=tokyonight)
+
+---
+
+### 📌 Most Used Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-ahlawat&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anuj-ahlawat&theme=tokyonight&border_radius=5.5)](https://git.io/streak-stats)
+
+<!-- Or you can embed the screenshot image if you prefer it visually -->
+<!-- <img src="assets/streak-stats.png" width="100%" alt="Anuj's GitHub Streak Stats" /> -->
 
 ---
 
@@ -49,4 +58,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anujahlawat2410/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/anuj-ahlawat)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anuj_ahlawat_01/)  
-
