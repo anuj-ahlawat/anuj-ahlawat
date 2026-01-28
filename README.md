@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anuj Ahlawat</h1>
-<h3 align="center">🎓 B.Tech CSE Student | 💻 Web Developer | 🔐 Cybersecurity & DSA Learner </h3>
+<h3 align="center">🎓 B.Tech CSE Student | 💻 Web Developer | 🔐 Ethical Hacker </h3>
 
 
 
